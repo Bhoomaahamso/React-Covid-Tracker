@@ -14,15 +14,15 @@ export const sortData = (data) => {
 const casesTypeColors = {
   cases: {
     hex: "#CC1034",
-    mult: 400,
+    mult: 200,
   },
   recovered: {
     hex: "#7DD71D",
-    mult: 600,
+    mult: 300,
   },
   deaths: {
-    hex: "#C0C0C0",
-    mult: 1000,
+    hex: "#B50527",
+    mult: 750,
   },
 };
 

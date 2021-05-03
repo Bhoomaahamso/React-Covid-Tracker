@@ -17,5 +17,7 @@
 @media only screen and (max-width: 500px) {
   .table h2 {
     font-size: larger;
+    margin-top: 16px;
+    margin-bottom: 8px;
   }
 }
